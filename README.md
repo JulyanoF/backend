@@ -1,6 +1,6 @@
 ## Simulação de Pagamentos
 
-Aplicação REST para simulação de pagamentos entre pessoas físicas e lojistas.
+Aplicação REST para simulação de pagamentos entre usuários (podendo ser pessoa física e/ou lojista).
 
 ## Tecnologias Utilizadas
 
