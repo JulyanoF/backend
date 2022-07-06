@@ -7,4 +7,4 @@ Aplicação REST para simulação de pagamentos entre pessoas físicas e lojista
 * Laravel 9;
 * PHP 8.1;
 * Apache 2;
-* Postgres.
+* PostgreSQL.
